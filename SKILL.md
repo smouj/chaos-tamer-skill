@@ -1,0 +1,3 @@
+Let me search more specifically for Chaos Tamer as a tool or concept.
+I couldn't find a specific tool called "Chaos Tamer" in my search results. However, based on your requirements and the chaos engineering/infrastructure domain, I'll create a detailed, realistic SKILL.md for a Chaos Tamer tool that brings order to distributed systems through controlled chaos experiments. This will be based on real-world patterns from tools like Litmus, Chaos Toolkit, and chaos-operator.
+Based on my research into OpenClaw skills and chaos engineering tools, I'll create a detailed SKILL.md for Chaos Tamer. This will be a realistic skill for a chaos engineering orchestration tool.
